@@ -1,0 +1,28 @@
+D:\Masaüstü\comp graphs\opengl\ders10\ders10\obj\Debug\ders10.csproj.AssemblyReference.cache
+D:\Masaüstü\comp graphs\opengl\ders10\ders10\obj\Debug\ders10.Form1.resources
+D:\Masaüstü\comp graphs\opengl\ders10\ders10\obj\Debug\ders10.Properties.Resources.resources
+D:\Masaüstü\comp graphs\opengl\ders10\ders10\obj\Debug\ders10.csproj.GenerateResource.cache
+D:\Masaüstü\comp graphs\opengl\ders10\ders10\obj\Debug\ders10.csproj.CoreCompileInputs.cache
+D:\Masaüstü\comp graphs\opengl\ders10\ders10\bin\Debug\ders10.exe
+D:\Masaüstü\comp graphs\opengl\ders10\ders10\bin\Debug\ders10.pdb
+D:\Masaüstü\comp graphs\opengl\ders10\ders10\bin\Debug\Tao.OpenGl.dll
+D:\Masaüstü\comp graphs\opengl\ders10\ders10\bin\Debug\Tao.Platform.Windows.dll
+D:\Masaüstü\comp graphs\opengl\ders10\ders10\bin\Debug\Tao.OpenGl.xml
+D:\Masaüstü\comp graphs\opengl\ders10\ders10\bin\Debug\Tao.Platform.Windows.xml
+D:\Masaüstü\comp graphs\opengl\ders10\ders10\obj\Debug\ders10.csproj.CopyComplete
+D:\Masaüstü\comp graphs\opengl\ders10\ders10\obj\Debug\ders10.exe
+D:\Masaüstü\comp graphs\opengl\ders10\ders10\obj\Debug\ders10.pdb
+D:\Masaüstü\comp graphs\opengl\ders10 - Kopya (3)\ders10\bin\Debug\ders10.exe
+D:\Masaüstü\comp graphs\opengl\ders10 - Kopya (3)\ders10\bin\Debug\ders10.pdb
+D:\Masaüstü\comp graphs\opengl\ders10 - Kopya (3)\ders10\bin\Debug\Tao.OpenGl.dll
+D:\Masaüstü\comp graphs\opengl\ders10 - Kopya (3)\ders10\bin\Debug\Tao.Platform.Windows.dll
+D:\Masaüstü\comp graphs\opengl\ders10 - Kopya (3)\ders10\bin\Debug\Tao.OpenGl.xml
+D:\Masaüstü\comp graphs\opengl\ders10 - Kopya (3)\ders10\bin\Debug\Tao.Platform.Windows.xml
+D:\Masaüstü\comp graphs\opengl\ders10 - Kopya (3)\ders10\obj\Debug\ders10.csproj.AssemblyReference.cache
+D:\Masaüstü\comp graphs\opengl\ders10 - Kopya (3)\ders10\obj\Debug\ders10.Form1.resources
+D:\Masaüstü\comp graphs\opengl\ders10 - Kopya (3)\ders10\obj\Debug\ders10.Properties.Resources.resources
+D:\Masaüstü\comp graphs\opengl\ders10 - Kopya (3)\ders10\obj\Debug\ders10.csproj.GenerateResource.cache
+D:\Masaüstü\comp graphs\opengl\ders10 - Kopya (3)\ders10\obj\Debug\ders10.csproj.CoreCompileInputs.cache
+D:\Masaüstü\comp graphs\opengl\ders10 - Kopya (3)\ders10\obj\Debug\ders10.csproj.CopyComplete
+D:\Masaüstü\comp graphs\opengl\ders10 - Kopya (3)\ders10\obj\Debug\ders10.exe
+D:\Masaüstü\comp graphs\opengl\ders10 - Kopya (3)\ders10\obj\Debug\ders10.pdb
